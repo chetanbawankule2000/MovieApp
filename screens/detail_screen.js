@@ -245,7 +245,6 @@ const styles = StyleSheet.create({
   },
   genresAndRuntimeView: {
     flexDirection: 'row',
-    flexWrap: 'wrap',
   },
   genresView: {
     marginLeft: 16,
